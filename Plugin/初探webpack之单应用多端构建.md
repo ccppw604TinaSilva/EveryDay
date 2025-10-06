@@ -372,3 +372,5 @@ return target.join("\n");
 - <https://vitejs.dev/config/shared-options.html>
 - <https://github.com/rollup/plugins/tree/master/packages/replace>
 
+
+<!-- Auto-update: 2025-10-06T21:31:27.907786 -->
